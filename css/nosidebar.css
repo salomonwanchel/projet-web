@@ -1,0 +1,42 @@
+
+
+
+h1{
+	padding:19px;
+}
+.o{
+	padding:1px;
+	font-family: 'Raleway', sans-serif; 
+	margin-left: 6%;
+}
+
+.left2{
+	/* background-color:red; */
+	height: 640px;
+	width:900px;
+	float:left;
+	margin-top:-640px;
+	/* text-align: justify; */
+}
+.r1 {
+   margin-right: -45%; 
+   margin-left: 6%;
+   font-family: 'Raleway', sans-serif; 
+   font-size: 16.8px; 
+}
+
+.r2 {
+   margin-right: -45%; 
+   margin-left: 6%;
+   font-family: 'Raleway', sans-serif; 
+   font-size: 16.8px;  
+
+}
+
+.r3{
+   margin-right: -45%; 
+   margin-left: 6%;
+   font-family: 'Raleway', sans-serif; 
+   font-size: 16.8px;  
+
+}
